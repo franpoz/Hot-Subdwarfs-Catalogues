@@ -21,6 +21,15 @@ _Fig 1. Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), 
 
 
 
+<p align="center">
+  <img width="100%" src="/images/sdb_celestial_distribution.png">
+</p>
+
+_Fig 2. Celestial distribution of hot subdwarfs observed by TESS primary mission (blue points), TESS extended mission in 2-min cadence (red points) and  TESS extended mission in 20-s candence (orange points)._
+
+
+
+
 
 ### Some of the packages used in this work
 
