@@ -28,6 +28,7 @@ _Fig 1. Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), 
 _Fig 2. Celestial distribution of hot subdwarfs observed by TESS primary mission (blue points), TESS extended mission in 2-min cadence (red points) and  TESS extended mission in 20-s candence (orange points)._
 
 
+The catalogues themselves can be found in the [TESS](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/TESS), Kepler(--), and K2(--) folders in this repository in excel format.
 
 
 
@@ -40,3 +41,12 @@ _Fig 2. Celestial distribution of hot subdwarfs observed by TESS primary mission
 [Matplotlib](https://github.com/matplotlib/matplotlib)
 
 [Transit Least Squares](https://github.com/hippke/tls)
+
+
+### Citation
+
+The catalogues presented in this repository are public. Please, consider to cite Van Grootel et al. (2021) if you use them in your reseach.
+
+
+
+
