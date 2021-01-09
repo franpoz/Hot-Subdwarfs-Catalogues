@@ -13,11 +13,12 @@ _Results_.Transiting objects with a radius <1.0 R_Earth can be detected in most 
 _Conclusions_.The TESS sample will provide the most important statistics for the global aim of measuring the planet occurrencerate around hot subdwarfs. The Kepler, K2 and CHEOPS data will allow us to search for planetary remnants, i.e. very close and small (possibly disintegrating) objects, which would have partly survived the engulfment in their red giant host.
 
 
+<p align="center">
+  <img width="50%" src="/images/histo_color2.png">
+</p>
 _Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), and CHEOPS (as of November 19, 2020) per G magnitude bin._
 
-<p align="center">
-  <img width="30%" src="(https://github.com/franpoz/Hot-Subdwarfs-Catalogues/blob/master/images/histo_color2.png">
-</p>
+
 
 
 ### Some of the packages used in this work
