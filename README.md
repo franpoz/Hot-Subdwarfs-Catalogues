@@ -1,4 +1,4 @@
-# Hot Subdwarfs Catalogues presented in Van Grootel et al. (2021)
+# Hot Subdwarfs Catalogues (Van Grootel et al. 2021)
 
 Status: under co-authors review.
 
