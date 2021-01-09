@@ -16,7 +16,8 @@ _Conclusions_.The TESS sample will provide the most important statistics for the
 <p align="center">
   <img width="50%" src="/images/histo_color2.png">
 </p>
-_Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), and CHEOPS (as of November 19, 2020) per G magnitude bin._
+
+_Fig 1. Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), and CHEOPS (as of November 19, 2020) per G magnitude bin._
 
 
 
