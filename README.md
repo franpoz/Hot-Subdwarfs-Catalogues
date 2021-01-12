@@ -14,7 +14,7 @@ _Conclusions_.The TESS sample will provide the most important statistics for the
 
 
 <p align="center">
-  <img width="50%" src="/images/histo_color2.png">
+  <img width="50%" src="/images/histo_hot_withEXT.png">
 </p>
 
 _Fig 1. Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), and CHEOPS (as of November 19, 2020) per G magnitude bin._
@@ -22,10 +22,10 @@ _Fig 1. Number of hot subdwarfs observed by Kepler, K2, TESS (primary mission), 
 
 
 <p align="center">
-  <img width="100%" src="/images/sdb_celestial_distribution.png">
+  <img width="100%" src="/images/celestial_full.png">
 </p>
 
-_Fig 2. Celestial distribution of hot subdwarfs observed by TESS primary mission (blue points), TESS extended mission in 2-min cadence (red points) and  TESS extended mission in 20-s candence (orange points)._
+_Fig 2. Celestial distribution of hot subdwarfs observed by TESS primary mission (blue points), TESS extended mission in 2-min cadence (red points) and  TESS extended mission in 20-s candence (orange points), Kepler (purple crosses), K2 (black triangles) and CHEOPS (green stars)._
 
 
 The catalogues themselves can be found in the [TESS](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/TESS), Kepler(--), and K2(--) folders in this repository in excel format.
