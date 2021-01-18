@@ -4,7 +4,7 @@ Status: under co-authors review.
 
 ## A transit survey to search for planets around hot subdwarfs: I. methods and performance tests on light curves from Kepler, K2,TESS, and CHEOPS.
 
-### Absract
+### Abstract
 
 _Context_. Hot subdwarfs experienced strong mass loss on the Red Giant Branch (RGB) and are now hot and small He-burning objects. Such stars constitute excellent opportunities to address the question of the evolution of exoplanetary systems directly afterthe RGB phase of evolution. \
 _Aims_. We aim in this project to perform a transit survey using all available light curves of hot subdwarfs from space-based telescopes (Kepler, K2, TESS, and CHEOPS), in order to determine the occurrence rate of planets around these stars, as function of orbital period and planetary radius. We also aim to determine if planets previously engulfed in the envelope of their red giant host star may survive, even partially, as a planetary remnant.\
