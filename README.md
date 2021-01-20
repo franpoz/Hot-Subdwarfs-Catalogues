@@ -1,7 +1,7 @@
 # Hot Subdwarfs Catalogues (Van Grootel et al. 2021)
 
 Status: submitted to A&A (20-01-2021)\
-Draft: [Van Grootel et al. 2021](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/Van_Grootel_20012021)
+Draft: [Van Grootel et al. 2021](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/Van_Grootel_20012021.pdf)
 
 ## A transit survey to search for planets around hot subdwarfs: I. methods and performance tests on light curves from Kepler, K2,TESS, and CHEOPS.
 
