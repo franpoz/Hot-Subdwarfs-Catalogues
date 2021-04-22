@@ -1,17 +1,16 @@
 # Hot Subdwarfs Catalogues (Van Grootel et al. 2021)
 
-Status: submitted to A&A (20-01-2021)\
-Draft: [Van Grootel et al. 2021](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/Van_Grootel_20012021.pdf)
+Status: Submitted to A&A (20-01-2021) # Accepted (14-04-2021)\
+Accepted Version:[Van_Grootel 2021](https://github.com/franpoz/Hot-Subdwarfs-Catalogues/tree/main/Van_Grootel_accepted_version.pdf) 
 
 ## A transit survey to search for planets around hot subdwarfs: I. methods and performance tests on light curves from Kepler, K2,TESS, and CHEOPS.
 
 ### Abstract
-
-_Context_. Hot subdwarfs experienced strong mass loss on the Red Giant Branch (RGB) and are now hot and small He-burning objects. Such stars constitute excellent opportunities to address the question of the evolution of exoplanetary systems directly afterthe RGB phase of evolution. \
-_Aims_. We aim in this project to perform a transit survey using all available light curves of hot subdwarfs from space-based telescopes (Kepler, K2, TESS, and CHEOPS), in order to determine the occurrence rate of planets around these stars, as function of orbital period and planetary radius. We also aim to determine if planets previously engulfed in the envelope of their red giant host star may survive, even partially, as a planetary remnant.\
-_Methods_. We use our custom-made pipeline SHERLOCK to search for transit events in Kepler, K2 and TESS light curves. For a selection of representative targets from these missions, we perform injection-and-recovery tests to determine which transiting bodies, in terms of object radius and orbital period, we will be able to detect with our tools. We also provide such estimates for CHEOPS data, which we analyze with the pycheops package. \
-_Results_.Transiting objects with a radius <1.0 R_Earth can be detected in most of Kepler, K2 and CHEOPS targets for the shortes torbital periods (1 d and below), reaching values as small as ~0.3R_Earth in the best cases. Reaching sub-Earth-sized bodies is achieved only for the brightest TESS targets, and the ones observed during a significant number of sectors. We also give a series of representative results for farther and bigger planets, for which the performances strongly depend on the target magnitude, the length and the quality of the data. \
-_Conclusions_.The TESS sample will provide the most important statistics for the global aim of measuring the planet occurrencerate around hot subdwarfs. The Kepler, K2 and CHEOPS data will allow us to search for planetary remnants, i.e. very close and small (possibly disintegrating) objects, which would have partly survived the engulfment in their red giant host.
+_Context_. Hot subdwarfs experienced strong mass loss on the Red Giant Branch (RGB) and are now hot and small He-burning objects. Such stars constitute excellent opportunities to address the question of the evolution of exoplanetary systems directly after the RGB phase of evolution. \
+_Aims_. In this project we aim to perform a transit survey in all available light curves of hot subdwarfs from space-based telescopes (Kepler, K2, TESS, and CHEOPS), with our custom-made pipeline {\fontfamily{pcr}\selectfont SHERLOCK}, in order to determine the occurrence rate of planets around these stars, as a function of orbital period and planetary radius. We also aim to determine whether planets previously engulfed in the envelope of their red giant host star can survive, even partially, as a planetary remnant.\
+_Methods_. In this first paper, we perform injection-and-recovery tests of synthetic transits for a selection of representative Kepler, K2 and TESS light curves, to determine which transiting bodies, in terms of object radius and orbital period, we will be able to detect with our tools. We also provide such estimates for CHEOPS data, which we analyze with the {\tt{pycheops}} package.\
+_Results_.Transiting objects with a radius $\lesssim$ 1.0 $R_{\Earth}$ can be detected in most of Kepler, K2 and CHEOPS targets for the shortest orbital periods (1~d and below), reaching values as small as $\sim$0.3 $R_{\Earth}$ in the best cases. Reaching sub-Earth-sized bodies is achieved only for the brightest  TESS targets, and the ones observed during a significant number of sectors. We also give a series of representative results for farther and bigger planets, for which the performances strongly depend on the target magnitude, the length and the quality of the data.\
+_Conclusions_.The TESS sample will provide the most important statistics for the global aim of measuring the planet occurrence rate around hot subdwarfs. The Kepler, K2 and CHEOPS data will allow us to search for planetary remnants, i.e. very close and small (possibly disintegrating) objects, which would have partly survived the engulfment in their red giant host.
 
 
 <p align="center">
